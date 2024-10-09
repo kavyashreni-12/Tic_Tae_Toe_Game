@@ -16,9 +16,12 @@ Win the game: The first player to form a line of their symbol horizontally, vert
 Start a new game: Once a game is over, click the "New Game" button to play again.
 
 # Technical Implementation:
-HTML: The structure of the game board, including the grid cells and buttons, is defined using HTML elements.
-CSS: Styles the game board, buttons, and other elements to create a visually appealing interface.
-JavaScript: Handles the game logic, including player turns, win detection, and updating the game state.
+# HTML: 
+The structure of the game board, including the grid cells and buttons, is defined using HTML elements.
+# CSS: 
+Styles the game board, buttons, and other elements to create a visually appealing interface.
+# JavaScript: 
+Handles the game logic, including player turns, win detection, and updating the game state.
 
 ![Tic_Tae_Toe](https://github.com/user-attachments/assets/024ab0c4-f297-44cf-877c-773b5fae3b21)
 
